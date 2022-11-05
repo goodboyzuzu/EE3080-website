@@ -457,13 +457,13 @@ export default function Home() {
             <Image src={sim8} class="rounded-xl" width={950} height={500}/>
           </div>
         </section>
-        <section className="min-h-screen" id="About Us">
+
+        {/* <section className="min-h-screen" id="About Us">
           <div className="h-24"></div>
           <div>
             <h3 className="text-3xl py-1 text-teal-600 dark:text-teal-400 font-bold">About Us</h3>
-            
           </div>
-        </section>
+        </section> */}
       </main>
     </div>
   );
